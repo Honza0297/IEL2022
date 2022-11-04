@@ -1,3 +1,7 @@
+# Read me please! aneb zřeknutí se odpovědnosti :)
+
+Všechny informace zde uvedené nejsou oficiálním studijním zdrojem předmětu IEL, ale pouze neoficiálním doplňkovým materiálem. Stejně tak sekce *co byste měli umět* na konci každého souboru s informacemi ke konkrétní laboratoři není úplná - zapsal jsem tam primárně věci, které mě napadly a které jsou jistě nutné - nemusí být ovšem dostačující!
+
 # IEL2022
 Repozitář pro dodatečné materiály k laboratořím z IELu 2022/2023
 
