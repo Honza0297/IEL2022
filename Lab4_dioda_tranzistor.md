@@ -25,6 +25,6 @@ Doporučuji se podívat na všechna videa, dohromady zaberou asi hodinu a každ�
 Co byste měli umět:
 ---
 * Jak zapojit diodu v propustném a v závěrném směru
-* Proč k LED diodě dáváme rezistor
+* Proč (nejen) k LED diodě dáváme rezistor
 * Jak zapojit (alespoň) NPN tranzistor jako spínač, jak ho sepnout, jak se mění napětí mezi jeho vývody...
 * Jak z tranzistoru postavit logické hradlo
