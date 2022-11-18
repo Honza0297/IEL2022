@@ -62,7 +62,7 @@ Poslední součástí výbavy je osciloskop. Ten bohužel stojí od vyšších j
 * Prakticky všechny věci (starter kity i jednotlivé součástky) lze koupit i na čínských online tržištích typu Aliexpress za zlomek ceny. Dodací lhůty jsou ovšem v řádu měsíců a záruka prakticky žádná. Nevýhody jsou ale často kompenzované právě cenou.
 * Seznam není ani zdaleka vyčerpávající a stále je Work-in-Progress
 * Značení součástek se liší podle data výroby, země původu, použití... Často ani nelze sehnat jednu konkrétní součástku a musíte pak shánět alespoň přibližnou alternativu (když mi vyjde, že mám použít 5kOhm rezistor - který se standardně nevyrábí - dám tam nejbližší hodnotu, co mám k dispozici, třeba 4.7kOhm). Jinak řečeno, každý elektrotechnik je tak trochu Jirka Babica :). 
-* Pokud je někde napsané označení součástky (např BC337-40 nebo 7400), většinou ho nenajdete takhle "samo o sobě", ale bývá obalené spoustou dalších písmen (BC337-40BK, HC7400N), kde dodatečná písmena udávají např typ (TTL vs CMOS -  o tom se doslechnete i v IELu), teplotní a jinou odolnost, jakostní třídu a podobně. Často to také značí revizi obvodu. 
+* Pokud je někde napsané označení součástky (např BC337-40 nebo 7400), většinou ho nenajdete takhle "samo o sobě", ale bývá obalené spoustou dalších písmen (BC337-40BK, HC7400N), kde dodatečná písmena udávají např typ (TTL vs CMOS -  o tom se doslechnete i v IELu), teplotní a jinou odolnost, jakostní třídu a podobně. Často to také značí revizi obvodu. Trochu podrobnější vysvětlení například zde: https://www.youtube.com/watch?v=8h65hKDLamY
 * V Brně sídlí obchod s elektornickými součástkami GME, najdete ho hned vedle Vaňkovky a zastávky šaliny 12 (Úzká).
 
 ## Arduino
